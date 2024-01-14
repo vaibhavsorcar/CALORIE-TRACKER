@@ -1,0 +1,7 @@
+Test commands list:
+
+.\venv\Scripts\Activate
+pip install django
+django-admin startproject foodie .
+django-admin startapp counter
+
